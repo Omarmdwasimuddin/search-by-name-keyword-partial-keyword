@@ -1,4 +1,4 @@
-# search-by name, keyword, partial keyword
+# Search by Name, Keyword & Partial Keyword
 
 
 #### `employee-bd.service.ts`
